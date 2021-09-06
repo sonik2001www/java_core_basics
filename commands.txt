@@ -1,0 +1,20 @@
+git init
+
+git add
+
+git clone
+
+git commit
+
+git status
+
+git push
+
+git checkout
+
+git remote
+
+git branch
+
+git pull
+
